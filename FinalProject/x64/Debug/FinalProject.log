@@ -1,0 +1,14 @@
+﻿  Board.cpp
+  BoardScreen.cpp
+  FlipAnimation.cpp
+  GamePlayer.cpp
+  Main.cpp
+  ManageAssets.cpp
+  ManageGameState.cpp
+  ScorePage.cpp
+  SetTimeout.cpp
+  Shape.cpp
+  ShapeBtn.cpp
+  UserInterface.cpp
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\x64\Debug\FinalProject.exe

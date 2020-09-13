@@ -1,0 +1,23 @@
+﻿  BoardScreen.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\BoardScreen.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  FlipAnimation.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GamePlayer.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\GamePlayer.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\Game.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ManageAssets.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\ManageAssets.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ManageGameState.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\GamePlayer.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ScorePage.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\BoardScreen.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SetTimeout.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\SetTimeout.h(3,10): fatal error C1083: Cannot open include file: 'SFML/System.hpp': No such file or directory
+  Shape.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\Shape.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ShapeBtn.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\UserInterface.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UserInterface.cpp
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\UserInterface.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...

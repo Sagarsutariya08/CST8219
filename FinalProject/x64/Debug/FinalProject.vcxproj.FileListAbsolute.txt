@@ -1,0 +1,2 @@
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\x64\Debug\FinalProject.exe
+C:\Users\SAGAR SUTARIYA\source\repos\FinalProject\x64\Debug\FinalProject.pdb
